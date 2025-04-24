@@ -30,18 +30,24 @@
   Sobre mí
 </h1>
 
-```javascript
-const franciscoDaniel = {
-  location: "San Pedro, República Dominicana",
-  education: {
-    current: "Tecnología en Desarrollo de Software @ ITLA",
-    graduation: "En curso (2023-Presente)"
-  },
-  fields: ["Full Stack Development", "Web Development", "Database Design"],
-  currentFocus: "Construyendo aplicaciones web escalables con arquitecturas modernas",
-  hobbies: ["Programación", "Resolución de problemas", "Aprendizaje continuo"]
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="600px">
+        <ul>
+          <li>🌎 Soy de <b>San Pedro, República Dominicana</b></li>
+          <li>🎓 Actualmente estudio <b>Tecnología en Desarrollo de Software @ ITLA</b> (2023-Presente)</li>
+          <li>💻 Me especializo en <b>Full Stack Development, Web Development y Database Design</b></li>
+          <li>🚀 Mi enfoque actual: <b>Construir aplicaciones web escalables con arquitecturas modernas</b></li>
+          <li>⚡ Me apasiona la programación, la resolución de problemas y el aprendizaje continuo</li>
+        </ul>
+      </td>
+      <td width="300px" align="center">
+        <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30">
@@ -135,117 +141,119 @@ const franciscoDaniel = {
   </p>
 </div>
 
-<details>
-  <summary><h1>🚀 Mis Proyectos Destacados</h1></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <h2 align="center">BookApp</h2>
-          <div align="center">  
-            <a href="https://github.com/odimsom/bookapp" >
-              <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="BookApp" height="180px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/odimsom/bookapp" target="_blank">
-                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-              </a>
-            </p>
-            <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
-            <p>Sistema de gestión de biblioteca digital que permite buscar, reservar y administrar préstamos de libros con recomendaciones personalizadas basadas en historial de lectura.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h2 align="center">AppCenar</h2>
-          <div align="center">  
-            <a href="https://github.com/odimsom/appcenar">
-              <img src="https://media.giphy.com/media/SasDDqOSRclNu/giphy.gif" alt="AppCenar" height="180px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/odimsom/appcenar" target="_blank">
-                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-              </a>
-            </p>
-            <p><strong>JavaScript, MVC, SQLite, Sequelize, Material-UI, Node.js</strong></p>
-            <p>Plataforma para reservas de restaurantes con exploración de menús, reservaciones en tiempo real y sistema de reseñas. Incluye panel administrativo para gestión de mesas.</p>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h2 align="center">Gestor de Cine</h2>
-          <div align="center">  
-            <a href="https://github.com/odimsom/gestor-de-cine">
-              <img src="https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif" alt="Gestor de Cine" height="180px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/odimsom/gestor-de-cine" target="_blank">
-                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-              </a>
-            </p>
-            <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
-            <p>Sistema completo para administración de cines que gestiona películas, salas, horarios y ventas de boletos con módulo de reportes y análisis de ventas integrado.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h2 align="center">Medical Appointment</h2>
-          <div align="center">  
-            <a href="https://github.com/odimsom/medicalAppoinmtment">
-              <img src="https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif" alt="Medical Appointment" height="180px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/odimsom/medicalAppoinmtment" target="_blank">
-                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-              </a>
-            </p>
-            <p><strong>C#, .NET Core, SQL Server, Entity Framework, Blazor</strong></p>
-            <p>Aplicación para gestión de citas médicas con historial digital, sistema de recordatorios y panel médico para seguimiento de pacientes.</p>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td width="50%">
-          <h2 align="center">Gestión Hoteles</h2>
-          <div align="center">  
-            <a href="https://github.com/odimsom/gstion-hoteles">
-              <img src="https://media.giphy.com/media/l0HlveVVbLpZE7lSM/giphy.gif" alt="Gestión Hoteles" height="180px" />
-            </a>
-            <br>
-            <br>
-            <p>
-              <a href="https://github.com/odimsom/gstion-hoteles" target="_blank">
-                <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-              </a>
-            </p>
-            <p><strong>C#, .NET Core, SQL Server, Entity Framework, Blazor</strong></p>
-            <p>Sistema integral para administración hotelera que gestiona reservaciones, check-in/check-out, servicios a la habitación y facturación con módulo de mantenimiento.</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h2 align="center">Próximamente</h2>
-          <div align="center">  
-            <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coming Soon" height="180px" />
-            <br>
-            <br>
-            <p><strong>Nuevo proyecto en desarrollo</strong></p>
-            <p>¡Mantente atento! Estoy trabajando en nuevas soluciones innovadoras que pronto estarán disponibles en mi repositorio.</p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Mis Proyectos Destacados
+</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h2 align="center">BookApp</h2>
+        <div align="center">  
+          <a href="https://github.com/odimsom/bookapp" >
+            <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="BookApp" height="180px" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/odimsom/bookapp" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+            </a>
+          </p>
+          <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
+          <p>Aplicación de gestión de biblioteca digital que permite buscar, reservar y administrar préstamos de libros con recomendaciones personalizadas basadas en historial de lectura.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h2 align="center">AppCenar</h2>
+        <div align="center">  
+          <a href="https://github.com/odimsom/appcenar">
+            <img src="https://media.giphy.com/media/SasDDqOSRclNu/giphy.gif" alt="AppCenar" height="180px" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/odimsom/appcenar" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+            </a>
+          </p>
+          <p><strong>JavaScript, MVC, SQLite, Sequelize, Material-UI, Node.js</strong></p>
+          <p>Plataforma para reservas de restaurantes con exploración de menús, reservaciones en tiempo real y sistema de reseñas. Incluye panel administrativo para gestión de mesas.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h2 align="center">Gestor de Cine</h2>
+        <div align="center">  
+          <a href="https://github.com/odimsom/gestor-de-cine">
+            <img src="https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif" alt="Gestor de Cine" height="180px" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/odimsom/gestor-de-cine" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+            </a>
+          </p>
+          <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
+          <p>Sistema completo para administración de cines que gestiona películas, salas, horarios y ventas de boletos con módulo de reportes y análisis de ventas integrado.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h2 align="center">Medical Appointment</h2>
+        <div align="center">  
+          <a href="https://github.com/odimsom/medicalAppoinmtment">
+            <img src="https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif" alt="Medical Appointment" height="180px" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/odimsom/medicalAppoinmtment" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+            </a>
+          </p>
+          <p><strong>C#, .NET Core, SQL Server, Entity Framework, Blazor</strong></p>
+          <p>Aplicación para gestión de citas médicas con historial digital, sistema de recordatorios y panel médico para seguimiento de pacientes.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h2 align="center">Gestión Hoteles</h2>
+        <div align="center">  
+          <a href="https://github.com/odimsom/gstion-hoteles">
+            <img src="https://media.giphy.com/media/l0HlveVVbLpZE7lSM/giphy.gif" alt="Gestión Hoteles" height="180px" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/odimsom/gstion-hoteles" target="_blank">
+              <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+            </a>
+          </p>
+          <p><strong>C#, .NET Core, SQL Server, Entity Framework, Blazor</strong></p>
+          <p>Sistema integral para administración hotelera que gestiona reservaciones, check-in/check-out, servicios a la habitación y facturación con módulo de mantenimiento.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h2 align="center">Proyecto en Progreso</h2>
+        <div align="center">  
+          <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coming Soon" height="180px" />
+          <br>
+          <br>
+          <p><strong>Stack completo con React y .NET Core</strong></p>
+          <p>¡Mantente atento! Estoy trabajando en nuevas soluciones innovadoras que pronto estarán disponibles en mi repositorio.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
   Mis Estadísticas de GitHub
 </h1>
 
