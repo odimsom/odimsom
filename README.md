@@ -1,147 +1,191 @@
-<!-- Banner animado -->
+# <div align="center">Francisco Daniel Castro Borrome</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+Soy+Francisco+Daniel+Castro;Desarrollador+FullStack+en+formación&font=Fira%20Code&center=true&width=500&height=60&color=f75c7e&size=24" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Coding GIF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+Soy+Francisco+Daniel+Castro;Desarrollador+FullStack+en+formación&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  
+  ![Programador](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+  ### **Desarrollador FullStack | República Dominicana, San Pedro**
+
+  [![Gmail](https://img.shields.io/badge/Gmail-borrome941@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borrome941@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-odimsom-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odimsom)
+  [![Teléfono](https://img.shields.io/badge/Teléfono-809--635--9619-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+18096359619)
+  
+  ![Visitas](https://komarev.com/ghpvc/?username=odimsom&color=blueviolet&style=flat-square)
 </div>
 
----
-
-# Francisco Daniel Castro Borrome  
-### Desarrollador FullStack  
-📍 San Pedro de Macorís, República Dominicana  
-
-<p align="center">
-  <a href="mailto:borrome941@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-borrome941@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/odimsom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-odimsom-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="tel:+18096359619">
-    <img src="https://img.shields.io/badge/Teléfono-809–635–9619-green?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono" />
-  </a>
-</p>
-
----
-
-## 📋 Sobre mí <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="30" alt="About me GIF" />
-
-Ingeniero de software en formación, apasionado por la creación de aplicaciones web escalables y de buen diseño. Me encanta aprender nuevas tecnologías y aplicar buenas prácticas de código limpio (SOLID, patrones de diseño).
-
----
-
-## 🎯 Perfil Profesional <img src="https://media.giphy.com/media/l0HlQ7LRalR2h4hm4/giphy.gif" width="30" alt="Profile GIF" />
-
-| ![code](https://img.icons8.com/color/48/000000/source-code.png) | Experiencia en JavaScript, Java y C# (proyectos académicos) |
-| :---: | :--- |
-| ![db](https://img.icons8.com/color/48/000000/database-restore.png) | MySQL, SQL Server, Oracle (EF, Sequelize) |
-| ![backend](https://img.icons8.com/color/48/000000/backend-development.png) | Node.js & .NET Core (APIs REST robustas) |
-| ![design](https://img.icons8.com/color/48/000000/code-fork.png) | Patrones de diseño & Principios SOLID |
-
----
-
-## 🛠️ Habilidades Técnicas <img src="https://media.giphy.com/media/26xBsWZntIlHD1YWM/giphy.gif" width="30" alt="Skills GIF" />
+## 🚀 Perfil Profesional
 
 <table>
-  <tr align="center">
-    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" /><br>JavaScript</td>
-    <td><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" /><br>C#</td>
-    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" /><br>Java</td>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" /><br>Python</td>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" /><br>MySQL</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js</td>
+  <tr>
+    <td width="40" align="center">
+      <img src="https://img.icons8.com/color/48/000000/source-code.png" width="30"/>
+    </td>
+    <td>
+      Desarrollador con experiencia en JavaScript, Java y C# para proyectos académicos
+    </td>
   </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=dotnet" width="48" /><br>.NET Core</td>
-    <td><img src="https://skillicons.dev/icons?i=express" width="48" /><br>Express</td>
-    <td><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
-    <td><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="48" /><br>Bootstrap</td>
-    <td><img src="https://skillicons.dev/icons?i=materialui" width="48" /><br>Material UI</td>
+  <tr>
+    <td width="40" align="center">
+      <img src="https://img.icons8.com/color/48/000000/database-restore.png" width="30"/>
+    </td>
+    <td>
+      Trabajo con MySQL, SQL Server y Oracle usando Entity Framework y Sequelize
+    </td>
   </tr>
-  <tr align="center">
-    <td><img src="https://skillicons.dev/icons?i=sqlite" width="48" /><br>SQLite</td>
-    <td><img src="https://skillicons.dev/icons?i=git" width="48" /><br>Git</td>
-    <td><img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="48" /><br>Swagger</td>
-    <td colspan="3"></td>
+  <tr>
+    <td width="40" align="center">
+      <img src="https://img.icons8.com/color/48/000000/backend-development.png" width="30"/>
+    </td>
+    <td>
+      Desarrollo backend con Node.js y .NET Core para crear servidores robustos
+    </td>
+  </tr>
+  <tr>
+    <td width="40" align="center">
+      <img src="https://img.icons8.com/color/48/000000/code-fork.png" width="30"/>
+    </td>
+    <td>
+      Aplicación de patrones de diseño y principios SOLID para código limpio
+    </td>
   </tr>
 </table>
 
----
+## 💻 Habilidades Técnicas
 
-## 🚀 Proyectos Destacados <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30" alt="Projects GIF" />
+<div align="center">
+  
+  ### Lenguajes de Programación
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  ### Tecnologías Frontend
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+  
+  ### Tecnologías Backend
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+  ### Bases de Datos
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  
+  ### Herramientas y Otros
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+</div>
 
-<details>
-<summary><strong>BookApp</strong> <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="Book GIF" /></summary>
+## 🏆 Proyectos Destacados
 
-- 📌 Gestión de biblioteca digital: búsqueda, reserva y préstamos.  
-- 🔍 Sistema de recomendaciones según historial de lectura.  
-- 🔗 [Código en GitHub](https://github.com/odimsom/bookapp)
-</details>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <h3>BookApp</h3>
+      <a href="https://github.com/odimsom/bookapp" target="_blank">
+        <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" height="140" alt="BookApp"/>
+      </a>
+      <p>
+        <a href="https://github.com/odimsom/bookapp" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
+      <p>Aplicación de gestión de biblioteca digital que permite a los usuarios buscar, reservar y gestionar préstamos de libros.</p>
+    </td>
+    <td align="center">
+      <h3>AppCenar</h3>
+      <a href="https://github.com/odimsom/appcenar" target="_blank">
+        <img src="https://media.giphy.com/media/SasDDqOSRclNu/giphy.gif" height="140" alt="AppCenar"/>
+      </a>
+      <p>
+        <a href="https://github.com/odimsom/appcenar" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, MVC, SQLite, Sequelize, Material-UI, Node.js</strong></p>
+      <p>Plataforma para reservas de restaurantes que permite a los usuarios explorar menús, hacer reservaciones y dejar reseñas.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Gestor de Cine</h3>
+      <a href="https://github.com/odimsom/gestor-de-cine" target="_blank">
+        <img src="https://media.giphy.com/media/3o7rc0qU6m5hneMsuc/giphy.gif" height="140" alt="Gestor de Cine"/>
+      </a>
+      <p>
+        <a href="https://github.com/odimsom/gestor-de-cine" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</strong></p>
+      <p>Sistema completo para administración de cines que gestiona películas, salas, horarios y ventas de boletos.</p>
+    </td>
+    <td align="center">
+      <h3>Medical Appointment</h3>
+      <a href="https://github.com/odimsom/medicalAppoinmtment" target="_blank">
+        <img src="https://media.giphy.com/media/JEIRAmTTfUgYE/giphy.gif" height="140" alt="Medical Appointment"/>
+      </a>
+      <p>
+        <a href="https://github.com/odimsom/medicalAppoinmtment" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p><strong>C#, .NET Core, SQL Server, Entity Framework, Blazor</strong></p>
+      <p>Aplicación para gestión de citas médicas que permite a pacientes programar consultas con especialistas.</p>
+    </td>
+  </tr>
+</table>
+</div>
 
-<details>
-<summary><strong>AppCenar</strong> <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="20" alt="Dinner GIF" /></summary>
+## 📊 Estadísticas de GitHub
 
-- 📌 Plataforma de reservas para restaurantes con panel administrativo.  
-- 📝 Gestión de menús, mesas y reseñas.  
-- 🔗 [Código en GitHub](https://github.com/odimsom/appcenar)
-</details>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odimsom&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odimsom&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</div>
 
-<details>
-<summary><strong>Gestor de Cine</strong> <img src="https://media.giphy.com/media/3o7aD7Tkn2b1XPZAvm/giphy.gif" width="20" alt="Cinema GIF" /></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odimsom&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-- 📌 Administración de películas, salas, horarios y boletos.  
-- 📊 Módulo de reportes y análisis de ventas.  
-- 🔗 [Código en GitHub](https://github.com/odimsom/gestor-de-cine)
-</details>
+## 🎓 Educación
 
-<details>
-<summary><strong>Medical Appointment</strong> <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="20" alt="Medical GIF" /></summary>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="Educación"/>
+  
+  ### Tecnología en Desarrollo de Software (2023 - Actualidad)
+  
+  **Instituto Tecnológico Las Americas (ITLA)**
+  
+  Actualmente cursando
+  
+  [![ITLA](https://img.shields.io/badge/Sitio_Web-ITLA-0077B5?style=for-the-badge)](https://itla.edu.do/tecnologia-en-desarrollo-de-software)
+</div>
 
-- 📌 Gestión de citas médicas con historial digital y recordatorios.  
-- 🔗 [Código en GitHub](https://github.com/odimsom/medicalAppoinmtment)
-</details>
+## 📫 Contáctame
 
-<details>
-<summary><strong>Gestión Hoteles</strong> <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="20" alt="Hotel GIF" /></summary>
-
-- 📌 Reservas, check-in/out, servicios y facturación.  
-- 🔗 [Código en GitHub](https://github.com/odimsom/gstion-hoteles)
-</details>
-
----
-
-## 🎓 Educación <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="30" alt="Education GIF" />
-
-- **Tecnología en Desarrollo de Software** (2023 – Actualidad)  
-  Instituto Tecnológico Las Américas (ITLA)  
-  [Sitio web de la carrera](https://itla.edu.do/tecnologia-en-desarrollo-de-software)
-
----
-
-## 📈 Estadísticas de GitHub <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30" alt="Stats GIF" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odimsom&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="380" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odimsom&theme=tokyonight" alt="GitHub Streak" width="380" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=odimsom&theme=tokyonight&column=7" alt="Trophies" />
-</p>
-
----
-
-## 📫 Contáctame <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="30" alt="Contact GIF" />
-
-<p align="center">
+<div align="center">
   <a href="mailto:borrome941@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-borrome941@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
   <a href="tel:+18096359619">
-    <img src="https://img.shields.io/badge/Teléfono-809–635–9619-green?style=for-the-badge&logo=phone&logoColor=white" alt="Teléfono" />
+    <img src="https://img.shields.io/badge/Teléfono-809--635--9619-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
   </a>
-</p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
