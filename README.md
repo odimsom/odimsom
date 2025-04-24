@@ -1,6 +1,7 @@
 <!-- Banner animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=¡Hola!+Soy+Francisco+Daniel+Castro;Desarrollador+FullStack+en+formación&font=Fira%20Code&center=true&width=500&height=60&color=f75c7e&size=24" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Coding GIF" />
 </div>
 
 ---
@@ -23,12 +24,13 @@
 
 ---
 
-## 📋 Sobre mí
+## 📋 Sobre mí <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="30" alt="About me GIF" />
+
 Ingeniero de software en formación, apasionado por la creación de aplicaciones web escalables y de buen diseño. Me encanta aprender nuevas tecnologías y aplicar buenas prácticas de código limpio (SOLID, patrones de diseño).
 
 ---
 
-## 🎯 Perfil Profesional
+## 🎯 Perfil Profesional <img src="https://media.giphy.com/media/l0HlQ7LRalR2h4hm4/giphy.gif" width="30" alt="Profile GIF" />
 
 | ![code](https://img.icons8.com/color/48/000000/source-code.png) | Experiencia en JavaScript, Java y C# (proyectos académicos) |
 | :---: | :--- |
@@ -38,7 +40,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas <img src="https://media.giphy.com/media/26xBsWZntIlHD1YWM/giphy.gif" width="30" alt="Skills GIF" />
 
 <table>
   <tr align="center">
@@ -67,10 +69,10 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30" alt="Projects GIF" />
 
 <details>
-<summary><strong>BookApp</strong> – JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</summary>
+<summary><strong>BookApp</strong> <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="Book GIF" /></summary>
 
 - 📌 Gestión de biblioteca digital: búsqueda, reserva y préstamos.  
 - 🔍 Sistema de recomendaciones según historial de lectura.  
@@ -78,7 +80,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 </details>
 
 <details>
-<summary><strong>AppCenar</strong> – JavaScript, MVC, SQLite, Sequelize, Material-UI, Node.js</summary>
+<summary><strong>AppCenar</strong> <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="20" alt="Dinner GIF" /></summary>
 
 - 📌 Plataforma de reservas para restaurantes con panel administrativo.  
 - 📝 Gestión de menús, mesas y reseñas.  
@@ -86,7 +88,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 </details>
 
 <details>
-<summary><strong>Gestor de Cine</strong> – JavaScript, MVC, SQLite, Sequelize, Bootstrap, Node.js</summary>
+<summary><strong>Gestor de Cine</strong> <img src="https://media.giphy.com/media/3o7aD7Tkn2b1XPZAvm/giphy.gif" width="20" alt="Cinema GIF" /></summary>
 
 - 📌 Administración de películas, salas, horarios y boletos.  
 - 📊 Módulo de reportes y análisis de ventas.  
@@ -94,14 +96,14 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 </details>
 
 <details>
-<summary><strong>Medical Appointment</strong> – C#, .NET Core, SQL Server, EF, Blazor</summary>
+<summary><strong>Medical Appointment</strong> <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="20" alt="Medical GIF" /></summary>
 
 - 📌 Gestión de citas médicas con historial digital y recordatorios.  
 - 🔗 [Código en GitHub](https://github.com/odimsom/medicalAppoinmtment)
 </details>
 
 <details>
-<summary><strong>Gestión Hoteles</strong> – C#, .NET Core, SQL Server, EF, Blazor</summary>
+<summary><strong>Gestión Hoteles</strong> <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="20" alt="Hotel GIF" /></summary>
 
 - 📌 Reservas, check-in/out, servicios y facturación.  
 - 🔗 [Código en GitHub](https://github.com/odimsom/gstion-hoteles)
@@ -109,7 +111,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 
 ---
 
-## 🎓 Educación
+## 🎓 Educación <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="30" alt="Education GIF" />
 
 - **Tecnología en Desarrollo de Software** (2023 – Actualidad)  
   Instituto Tecnológico Las Américas (ITLA)  
@@ -117,7 +119,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="30" alt="Stats GIF" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=odimsom&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="380" />
@@ -130,7 +132,7 @@ Ingeniero de software en formación, apasionado por la creación de aplicaciones
 
 ---
 
-## 📫 Contáctame
+## 📫 Contáctame <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="30" alt="Contact GIF" />
 
 <p align="center">
   <a href="mailto:borrome941@gmail.com">
