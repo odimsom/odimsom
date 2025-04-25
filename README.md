@@ -224,7 +224,7 @@
       <td width="50%">
         <h2 align="center">Gestión Hoteles</h2>
         <div align="center">  
-          <a href="https://github.com/odimsom/gstion-hoteles">
+          <a href="https://github.com/Brailyn-Perez/SGHR">
             <img src="https://media.giphy.com/media/l0HlveVVbLpZE7lSM/giphy.gif" alt="Gestión Hoteles" height="180px" />
           </a>
           <br>
