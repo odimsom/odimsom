@@ -230,7 +230,7 @@
           <br>
           <br>
           <p>
-            <a href="https://github.com/odimsom/gstion-hoteles" target="_blank">
+            <a href="https://github.com/Brailyn-Perez/SGHR" target="_blank">
               <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
             </a>
           </p>
