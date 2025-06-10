@@ -244,7 +244,7 @@
           <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coming Soon" height="180px" />
           <br>
           <br>
-          <p><strong>Stack completo con React y .NET Core</strong></p>
+          <p><strong>Stack completo con Angular y .NET Core</strong></p>
           <p>¡Mantente atento! Estoy trabajando en nuevas soluciones innovadoras que pronto estarán disponibles en mi repositorio.</p>
         </div>
       </td>
