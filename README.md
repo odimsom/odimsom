@@ -304,7 +304,7 @@
   <a href="https://github.com/odimsom" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="tel:+18096359619">
+  <a href="tel:+18296932458">
     <img src="https://img.shields.io/badge/Teléfono-809--635--9619-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="phone"/>
   </a>
 </div>
