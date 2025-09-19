@@ -1,5 +1,3 @@
-![Header](assets/partials.gif)
-
 # 👋 Hola, soy **Francisco D. Castro**  
 🎯 _Desarrollador Full-Stack en formación_  
 
