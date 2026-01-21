@@ -1,66 +1,60 @@
-# 👋 Hola, soy **Francisco D. Castro**  
-🎯 _Desarrollador Full-Stack en formación_  
+# 👋 Hola, soy **Francisco D. Castro**
+_Software Developer | Systems Integration & Business Solutions_
 
-📞 (829)-693-2458 | 📧 borrome941@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/francisco-daniel-castro-borrome-1235a9276) | 💻 [GitHub](https://github.com/odimsom) | 📄 [Download CV](#)
-
----
-
-## 🎯 Objetivo Profesional
-Soy un desarrollador en formación apasionado por las arquitecturas limpias y metodologías ágiles.  
-Busco integrarme en un equipo de desarrollo para aplicar mis conocimientos en proyectos reales y seguir creciendo profesionalmente.
+ República Dominicana | 🌐 Trabajo remoto  
+ [LinkedIn](https://www.linkedin.com/in/francisco-daniel-castro-borrome-1235a9276)  
+ [GitHub](https://github.com/odimsom)
 
 ---
 
-## 🛠️ Aptitudes
-- Liderazgo  
-- Comprometido  
-- Resolución de problemas  
-- Arquitectura de Software  
-- Patrones de Diseño (SOLID)  
-- Scrum  
+## Sobre mí
+Soy desarrollador de software enfocado en la construcción e integración de soluciones tecnológicas para entornos empresariales. Trabajo principalmente con C# .NET y tecnologías web, desarrollando aplicaciones backend, APIs y herramientas que conectan sistemas y automatizan procesos de negocio.
+
+Me interesa diseñar soluciones claras, mantenibles y alineadas a los procesos que soportan, combinando criterio técnico con entendimiento funcional del negocio.
 
 ---
 
-## 📂 Proyectos Destacados
-
-### HermesBanking – C#
-Sistema bancario completo con ASP.NET Core MVC.  
-🔗 [GitHub](https://github.com/odimsom/HermesBanking)
-
-### AppCountries – TypeScript
-Aplicación web para búsqueda de países.  
-🔗 [GitHub](https://github.com/odimsom/CountryApp) | 🌐 [Demo](https://countryapp-demo.vercel.app)
-
-### ITLANetworking – C#
-Red social con publicaciones multimedia y juego Battleship integrado.  
-🔗 [GitHub](https://github.com/odimsom/ITLANetworking)
-
-### AppCenar – JavaScript
-Plataforma de pedidos de delivery.  
-🔗 [GitHub](https://github.com/odimsom/AppCenar)
+## En qué trabajo
+- Desarrollo de aplicaciones y servicios backend con **C# .NET**
+- Creación de **APIs REST** e integración entre sistemas
+- Desarrollo de interfaces web con **React / JavaScript**
+- Automatización de procesos y soluciones orientadas a negocio
+- Documentación técnica y mantenimiento evolutivo
 
 ---
 
-## 🎓 Educación
-**Instituto Tecnológico de las Américas (ITLA)**  
-Tecnología en Desarrollo de Software (2023 - Actualidad)
+## Proyectos Destacados
 
-**Cursos ITLA**
-- C# Básico (2025)  
-- C# Intermedio (2025)  
-- C# Avanzado (2025, cursando)
+### HermesBanking — C#
+Sistema bancario desarrollado con ASP.NET Core MVC, enfocado en arquitectura, capas y lógica de negocio.
+  https://github.com/odimsom/HermesBanking
 
-**Udemy**
-- Angular de Cero a Experto (cursando)  
-- Python Básico desde 0 (2025)  
+### Country App — TypeScript
+Aplicación web para búsqueda y visualización de información de países.
+  https://github.com/odimsom/CountryApp  
+  https://countryapp-demo.vercel.app
+
+### ITLANetworking — C#
+Red social con publicaciones multimedia y funcionalidades interactivas.
+  https://github.com/odimsom/ITLANetworking
+
+### AppCenar — JavaScript
+Plataforma de pedidos tipo delivery.
+  https://github.com/odimsom/AppCenar
+
+---
+
+## Tecnologías
+**Backend:** C# .NET, Node.js  
+**Frontend:** JavaScript, TypeScript, React, Angular  
+**Bases de datos:** SQL Server, MySQL, SQLite, Oracle  
+**Herramientas:** Git, GitHub, Azure DevOps  
+**Otros:** REST APIs, Arquitectura en capas, principios SOLID
 
 ---
 
-## 💻 Lenguajes y Tecnologías
-**Lenguajes:** JavaScript, C#, SQL, HTML, CSS, TypeScript  
-**Frameworks:** .NET Core, ExpressJS, Bootstrap, Blazor, Sequelize, Entity Framework, Tailwind, Angular  
-**Bases de Datos:** SQL Server, SQLite, Oracle, MySQL  
-**Otros:** Git, GitHub, Handlebars, Azure DevOps  
+## Formación
+**Instituto Tecnológico de las Américas (ITLA)(En Curso)**  
+Tecnología en Desarrollo de Software
 
----
+Formación complementaria en C# (.NET), JavaScript, Angular y fundamentos de backend y bases de datos.
