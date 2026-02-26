@@ -1,60 +1,27 @@
-# 👋 Hola, soy **Francisco D. Castro**
-_Software Developer | Systems Integration & Business Solutions_
+# 👋 Hola, soy Francisco D. Castro
+### 💻 Software Developer · 🇩🇴 República Dominicana
 
- República Dominicana | 🌐 Trabajo remoto  
- [LinkedIn](https://www.linkedin.com/in/francisco-daniel-castro-borrome-1235a9276)  
- [GitHub](https://github.com/odimsom)
+Desarrollador enfocado en backend y web, especializado en **.NET y Node.js**. Construyo APIs, aplicaciones web y soluciones orientadas a negocio. También me muevo en mobile con **Flutter**.
 
----
-
-## Sobre mí
-Soy desarrollador de software enfocado en la construcción e integración de soluciones tecnológicas para entornos empresariales. Trabajo principalmente con C# .NET y tecnologías web, desarrollando aplicaciones backend, APIs y herramientas que conectan sistemas y automatizan procesos de negocio.
-
-Me interesa diseñar soluciones claras, mantenibles y alineadas a los procesos que soportan, combinando criterio técnico con entendimiento funcional del negocio.
+Disponible como **freelancer** y **consultor de software**.
 
 ---
 
-## En qué trabajo
-- Desarrollo de aplicaciones y servicios backend con **C# .NET**
-- Creación de **APIs REST** e integración entre sistemas
-- Desarrollo de interfaces web con **React / JavaScript**
-- Automatización de procesos y soluciones orientadas a negocio
-- Documentación técnica y mantenimiento evolutivo
+## 🛠️ Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## Proyectos Destacados
+## 📬 Contacto
 
-### HermesBanking — C#
-Sistema bancario desarrollado con ASP.NET Core MVC, enfocado en arquitectura, capas y lógica de negocio.
-  https://github.com/odimsom/HermesBanking
-
-### Country App — TypeScript
-Aplicación web para búsqueda y visualización de información de países.
-  https://github.com/odimsom/CountryApp  
-  https://countryapp-demo.vercel.app
-
-### ITLANetworking — C#
-Red social con publicaciones multimedia y funcionalidades interactivas.
-  https://github.com/odimsom/ITLANetworking
-
-### AppCenar — JavaScript
-Plataforma de pedidos tipo delivery.
-  https://github.com/odimsom/AppCenar
-
----
-
-## Tecnologías
-**Backend:** C# .NET, Node.js  
-**Frontend:** JavaScript, TypeScript, React, Angular  
-**Bases de datos:** SQL Server, MySQL, SQLite, Oracle  
-**Herramientas:** Git, GitHub, Azure DevOps  
-**Otros:** REST APIs, Arquitectura en capas, principios SOLID
-
----
-
-## Formación
-**Instituto Tecnológico de las Américas (ITLA)(En Curso)**  
-Tecnología en Desarrollo de Software
-
-Formación complementaria en C# (.NET), JavaScript, Angular y fundamentos de backend y bases de datos.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-daniel-castro-borrome-1235a9276)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odimsom)
